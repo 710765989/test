@@ -1,1 +1,2 @@
-123
+create a key:
+ssh-keygen -t rsa -C "my mail"
